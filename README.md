@@ -1,4 +1,4 @@
-# BST-Implementation-on-College-Courses
+# Readme.md
 
 Stores Courses in a .txt file in a Binary Search Tree data structure.
 
